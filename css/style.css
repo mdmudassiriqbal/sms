@@ -1,0 +1,29 @@
+body{
+	
+	background-color: #dfe3ee;
+	
+	
+}
+a{
+	text-decoration:inherit;
+}
+
+.admintitle {
+	
+	color: #fff;
+	background-color: black;
+	height:140px;
+	line-height: 140px;
+	margin-right: 50px;
+	margin-left:50px;
+	
+	
+}
+
+.dashboard{
+	
+	margin-top:30px;
+	
+	
+	
+}
